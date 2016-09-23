@@ -1,3 +1,5 @@
+# Based on: http://mathworld.wolfram.com/Dice.html
+
 from math import floor, factorial
 
 def binom(x, y):
